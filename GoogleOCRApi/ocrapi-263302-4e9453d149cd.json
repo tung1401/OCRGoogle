@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ocrapi-263302",
+  "private_key_id": "4e9453d149cd57b51e4dd1cef560e7bc335f94e0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQDCq/0sYfAxj+Qz\nIxxj6rV7uY14L9AwW9DuYRfldVUMYTlOoNhhLi5dQj/yflh4y3S2gIUS7EUVb8zJ\nn7qfTjzbt8hclWCTUqvu/2s2CrSfj1vwW8eukA7kQxhA5NVkbjscZ94wRQsg50WF\n9ozyRjuyQ/BkG5qkQhB2//YwNXMVz0nLxe3MRAWxPBtTw6g21qwlrmSXtaATdXg1\nwPwm6MdSV5BjGXNP+BkG9Ht7rY2pT41CKnx9UUkx1Dm+6zFGxr3qOQtDXA2Ny41T\n99TMaraM2IwYTLc0lP2wxuKMSjfm4qlRUwCuzUp7A8JFcvUCqkQMUkymI6xTpad8\nRtvwsgvFAgMBAAECgf8rYWUh7IB1Zl5PUBX3Up9ntdk+XNb7pp7QBkCiTyGw3X+e\nmDk+Mbb+r6xTaYso/l5xidCwBUvyDUEDGt4yWKqk3gZaao2tIizMs+2Ru90u7kl2\nOjqOSk7u2ATAWOi6tYyO+K7TybOMlVI+JoI19N5k2zjO5VfZvJXuscX57Aeg7I5I\n4FbQIZeu6T+KxTbXuDcGdSeyALghSicRD5upJdTTzWUxKGSMnYxLWXZbbwzU9BFj\nfwI+m1gzOaS2iO65F6iHl7Jtwxzm48ZBaMkacE7Nm//3BBkAj0otoNNLXZV/bxr4\n/RGA3sFxMlh2+b1j5bOaadfsrtzaN7C0JC3nLIkCgYEA6pmtviTb5Ifi2/rQZIJd\nR5xEXWKoCujra6eu/hTyKBx98rNm3rUNsEIPw96w5n3hZN58GFooGToTxamdfZba\ncZTGd+SK77LibMN+XwYfMauiyZRAFmdxneTYYnwuBcsSjbC2NgUAKfWWMqw3zxvw\n7IyDZRZkR8UuoqsSFVgCjz8CgYEA1G3pXew9tXCZBVO9AzKiYFb0+Ng+lJHsyZEs\nBsxT7tB+3gg/V4W5QFwBKVSVwAw3Qw+7/k18qSQ0+bPqblzmUCqm+yC1ryz0n3w0\nQQsqQwvkX5CV9p9zRB/aLv6V50oaVFqHPSFQ4SZWJyDD2J0iR10aCsyjEnKJ89yl\nfONjJ/sCgYBa58/mVTwL8wfaO/dSax2gKRJoqVj6WUUYQzLQ6+bl2hyH1jKva7Lx\nMLgRKxKbTf3v6zJk8VKGa/XLay1GxBTDXGYHgTzBIy0P/jTSt3mQ8rQyrkqjI9Rn\n3YxnpTzkK8t1shr5Fbj5iVt5KTi6/VW/I7eqjSGwmdy3Vdi9AoyDWwKBgGgN5q/x\nFlEX9HydhgpY9RzHu3thQVY5HImnqK8zyzFBw8MyuwQ+Jn4WEyORoUDPOwqIXIe2\noQehCqn9rSmeK9q86co9PYGvPawZhOcPdwYcfyMoiayici2+hHtcjUUcEUWcin4x\nIZMH2k+URxqF7dKTEjyT/JT+sgBX5mAEaf+dAoGBAM4GUTgdmlTaB9/xtxgNezQ8\nDvImHzAM8+Yj3XiicJNVYH6tPFBq1tl9uE9z8SWzdIHOdwEeQl6uXykm9zXizCb/\n8Jj1Fm73Vpf3idU56lZsO2/8ilcIj1osS5CBvS6TvRXVdto3Y3yPMv1xbHUv5NWl\nVy+C4mRSU4Uh5oy2+aUH\n-----END PRIVATE KEY-----\n",
+  "client_email": "my-vision-sa@ocrapi-263302.iam.gserviceaccount.com",
+  "client_id": "103731920305931031287",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/my-vision-sa%40ocrapi-263302.iam.gserviceaccount.com"
+}
